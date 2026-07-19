@@ -1,4 +1,5 @@
-# AI Water Intelligence System
+# AquaSignal
+### AI-Powered Urban Water Incident Intelligence
 
 An intelligent early-warning and decision-support system for detecting emerging urban water-supply problems using citizen complaints and other signals.
 
